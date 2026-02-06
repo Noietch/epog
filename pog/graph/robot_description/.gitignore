@@ -1,0 +1,4 @@
+*
+!.gitignore
+!kortex_description/gen3_robotiq_2f_85_base.urdf
+!urdf
